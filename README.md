@@ -1,5 +1,7 @@
 ### 离散制造过程中典型工件的质量符合率预测赛题
 
+https://www.datafountain.cn/competitions/351
+
 队员：徐扬，毕超，我
 
 训练赛A榜0.69236770，啥也没进
