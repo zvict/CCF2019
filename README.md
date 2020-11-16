@@ -2,7 +2,7 @@
 
 https://www.datafountain.cn/competitions/351
 
-队员：徐扬，毕超，我
+队员：xy，bc，我
 
 训练赛A榜0.69236770，啥也没进
 
